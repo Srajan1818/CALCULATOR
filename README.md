@@ -33,6 +33,6 @@ This project was created to practice front-end web development concepts such as:
 ---
 ## 🌐 Live Demo
 
-👉 **[Click here to view the app]()**
+👉 **[Click here to view the app](https://srajan1818.github.io/CALCULATOR/)**
 
 ---
